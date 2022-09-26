@@ -1,0 +1,173 @@
+endi:
+  name: Endilie Yacop Sucipto
+  title: Maintainer of Docusaurus
+  url: https://github.com/endiliey
+  image_url: https://github.com/endiliey.png
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
+
+sumantro:
+  name: Sumantro
+  email: sumantro@redhat.com
+  url: https://github.com/sumantro93
+  authorTwitter: BytesOfBinary
+  image_url: https://github.com/sumantro93.png
+
+adrianr:
+  name: Adrian Reber
+  email: areber@redhat.com
+  url: https://github.com/adrianreber
+  authorTwitter: adrian__reber
+
+afbjorklund:
+  name: Anders F Björklund
+  email: anders.f.bjorklund@gmail.com
+  url: https://github.com/afbjorklund
+  image_url: https://github.com/afbjorklund
+
+bbaude:
+  name: Brent Baude
+  url: https://people.redhat.com/baude/
+  authorTwitter: bbaude
+  image_url: https://github.com/baude.png
+
+balage:
+  name: Balázs Németh
+  email: jobbara.artalmatlan@gmail.com
+  url: https://balagetech.com
+  image_url: https://github.com/abalage.png
+
+cevich:
+  name: Chris Evich
+  email: cevich@redhat.com
+  url: https://github.com/cevich
+  image_url: https://github.com/cevich.png
+
+daniel-wtd:
+  name: Daniel Schier
+  email: daniel@while-true-do.io
+  web: https://while-true-do.io
+  authorTwitter: daniel_wtd
+  url: https://github.com/daniel-wtd
+  image_url: https://github.com/daniel-wtd.png
+
+dwalsh:
+  name: Dan Walsh
+  email: dwalsh@redhat.com
+  url: https://people.redhat.com/dwalsh/
+  aurhorTwitter: rhatdan
+  image_url: https://github.com/rhatdan.png
+
+ehaynes:
+  name: Ed Haynes 
+  email: ehaynes@redhat.com
+  url: https://github.com/edhaynes
+  image_url: https://github.com/edhaynes.png
+
+emacchi:
+  name: Emilien Macchi
+  authorTwitter: EmilienMacchi
+  url: https://github.com/EmilienM
+  image_url: https://github.com/EmilienM.png
+
+haraldh:
+  name: Harald Hoyer
+  email: harald@redhat.com
+  url: https://harald.hoyer.xyz
+  authorTwitter: haraldhoyer
+  image_url: https://github.com/haraldh.png
+
+ipbabble:
+  name: William Henry
+  email: whenry@redhat.com
+  authorTwitter: ipbabble
+  url: https://github.com/ipbabble
+  image_url: https://github.com/ipbabble.png
+
+jwhonce:
+  name: Jhon Honce
+  email: jhonce@redhat.com
+  authorTwitter: jwhonce
+  url: https://github.com/jwhonce
+  image_url: https://github.com/jwhonce.png
+
+kshirinkin:
+  name: Kirill Shirinkin
+  email: kirill@mkdev.me
+  url: https://mkdev.me/en
+  authorTwitter: Fodoj
+  image_url: https://github.com/Fodoj.png
+
+lsm5:
+  name: Lokesh Mandvekar
+  email: lsm5@fedoraproject.org
+  url: https://github.com/lsm5
+  image_url: https://github.com/lsm5.png
+
+mheon:
+  name: Matthew Heon
+  email: mheon@redhat.com
+  url: https://github.com/mheon
+  image_url: https://github.com/mheon.png
+
+pvanroy:
+  name: Parker Van Roy
+  email: pvanroy@redhat.com
+  url: https://github.com/ParkerVR
+  image_url: https://github.com/ParkerVR.png
+
+tristanC:
+  name: Tristan de Cacqueray
+  email: tdecacqu@redhat.com
+  url: https://github.com/TristanCacqueray
+  image_url: https://github.com/TristanCacqueray.png
+
+tsweeney:
+  name: Tom Sweeney
+  authorTwitter: TSweeneyRedHat
+  url: https://github.com/TomSweeneyRedhat
+  image_url: https://github.com/TomSweeneyRedhat.png
+
+vrothberg:
+  name: Valentin Rothberg
+  email: rothberg@redhat.com
+  url: https://github.com/vrothberg
+  image_url: https://github.com/vrothberg.png
+  authorTwitter: vlntnrthbrg
+
+bhepworth:
+  name: Bryan Hepworth
+  email: bryan.hepworth@newcastle.ac.uk
+  url: https://github.com/BryanHepworth
+  image_url: https://github.com/BryanHepworth.png
+  authorTwitter: bryan_hepworth
+
+ahyder:
+  name: Austin Hyder
+  email: ahyder@redhat.com
+  url: https://github.com/amhyder
+  image_url: https://github.com/amhyder.png
+
+fhsinchy:
+  name: Farhan Hasin Chowdhury
+  email: mail@farhan.info
+  url: https://www.farhan.info
+  authorTwitter: frhnhsin
+  image_url: https://github.com/fhsinchy.png
+
+afrocoder:
+  name: Leon N
+  email: me@leonnunes.dev
+  url: https://leonnunes.dev
+  authorTwitter: frustratedpepe
+  image_url: https://github.com/afro-coder.png
