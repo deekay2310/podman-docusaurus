@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const title = 'Podman';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Manage pods, containers, and container images',
@@ -60,15 +62,15 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Podman',
           src: 'img/logos/podman-logo.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'getting-started/index',
             position: 'left',
-            label: 'Tutorial',
+            label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -86,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/getting-started',
               },
             ],
           },
@@ -121,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ${title}<br/>Apache License 2.0 License`,
       },
       prism: {
         theme: lightCodeTheme,
