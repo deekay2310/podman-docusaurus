@@ -87,7 +87,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started with Podman',
                 to: '/docs/getting-started',
               },
             ],
@@ -118,7 +118,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/containers/podman',
               },
             ],
           },
